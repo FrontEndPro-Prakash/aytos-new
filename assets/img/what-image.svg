@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.9 371" style="enable-background:new 0 0 841.9 371;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{fill:#C00000;}
+	.st2{fill:none;stroke:#FFFFFF;stroke-width:0.721;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{font-family:'OpenSans-Regular';}
+	.st4{font-size:9px;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#C00000;}
+	
+		.st6{fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3,4;}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;}
+	.st8{fill-rule:evenodd;clip-rule:evenodd;fill:#231F20;}
+	.st9{font-family:'ArialNarrow';}
+	.st10{font-size:12.24px;}
+	
+		.st11{fill:none;stroke:#C00000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:3,4;}
+	.st12{fill:#FFFFFF;}
+	.st13{fill:none;stroke:#000000;stroke-width:0.442;stroke-miterlimit:10;}
+	.st14{fill:#B51900;}
+	.st15{fill:none;stroke:#B51900;stroke-width:2;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#FFFFFF;stroke-width:1.029;stroke-miterlimit:10;}
+	.st18{fill:none;stroke:#C00000;stroke-miterlimit:10;}
+	.st19{fill:none;stroke:#FFFFFF;stroke-linecap:round;stroke-miterlimit:10;}
+	.st20{fill:none;stroke:#C00000;stroke-linecap:round;stroke-miterlimit:10;}
+	.st21{fill:#B41600;}
+	.st22{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M723.5,126.8c0,0.5-0.1,0.9-0.3,1.1c-0.3,0.4-0.6,0.5-1,0.5c-0.4,0-0.9-0.2-1-0.7L718,122h-0.6v2.1l3.3,6.9
+	c0.1,0.2,0.1,0.4,0.1,0.5c0,0.4,0,0.5-0.3,0.9c-0.1,0.2-0.3,0.2-0.6,0.2h-2.6v4.6c0,0.5-0.1,0.9-0.4,1.4c-0.3,0.4-0.7,0.5-1.1,0.5
+	h-2.1c-0.4,0-0.7-0.2-1-0.5c-0.3-0.5-0.4-0.9-0.4-1.4v-4.6h-2.7c-0.1,0-0.4,0-0.6-0.2c-0.1-0.4-0.3-0.5-0.3-0.9
+	c0-0.2,0.1-0.4,0.1-0.5l3.4-6.9V122h-0.7l-3,5.7c-0.3,0.5-0.6,0.7-1.1,0.7c-0.3,0-0.6-0.2-0.9-0.5c-0.3-0.2-0.4-0.5-0.4-1.1
+	c0-0.4,0.1-0.5,0.3-0.9l3.4-6.4c0.7-1.2,1.4-1.8,2.4-1.8h5.1c0.9,0,1.7,0.5,2.4,1.8l3.4,6.4C723.5,126.2,723.5,126.4,723.5,126.8
+	 M717,110.7c0.6,0.9,0.9,1.8,0.9,2.7c0,1.1-0.3,1.9-0.9,2.7c-0.6,0.9-1.3,1.2-2.1,1.2c-0.9,0-1.6-0.4-2.1-1.2
+	c-0.6-0.7-0.9-1.6-0.9-2.7c0-0.9,0.3-1.8,0.9-2.7c0.6-0.7,1.3-1.1,2.1-1.1C715.7,109.6,716.5,110,717,110.7"/>
+<path class="st1" d="M723.4,126.8c0,0.5-0.1,0.9-0.3,1.1c-0.3,0.4-0.6,0.5-1,0.5c-0.4,0-0.9-0.2-1-0.7L718,122h-0.6v2.1l3.3,6.9
+	c0.1,0.2,0.1,0.4,0.1,0.5c0,0.4,0,0.5-0.3,0.9c-0.1,0.2-0.3,0.2-0.6,0.2h-2.6v4.6c0,0.5-0.1,0.9-0.4,1.4c-0.3,0.4-0.7,0.5-1.1,0.5
+	h-2.1c-0.4,0-0.7-0.2-1-0.5c-0.3-0.5-0.4-0.9-0.4-1.4v-4.6h-2.7c-0.1,0-0.4,0-0.6-0.2c-0.1-0.4-0.3-0.5-0.3-0.9
+	c0-0.2,0.1-0.4,0.1-0.5l3.4-6.9V122h-0.7l-3,5.7c-0.3,0.5-0.6,0.7-1.1,0.7c-0.3,0-0.6-0.2-0.9-0.5c-0.3-0.2-0.4-0.5-0.4-1.1
+	c0-0.4,0.1-0.5,0.3-0.9l3.4-6.4c0.7-1.2,1.4-1.8,2.4-1.8h5.1c0.9,0,1.7,0.5,2.4,1.8l3.4,6.4C723.4,126.2,723.4,126.4,723.4,126.8"/>
+<path class="st0" d="M722,78.8v7.6c0,0.6,0,1-0.3,1.4c-0.3,0.2-0.6,0.4-1,0.4c-0.3,0-0.6-0.2-0.9-0.4c-0.3-0.4-0.5-0.8-0.5-1.4V80
+	h-0.9v16.7c0,0.6-0.1,1-0.5,1.6c-0.3,0.4-0.8,0.6-1,0.6c-0.5,0-0.9-0.2-1.2-0.6c-0.3-0.6-0.4-1-0.4-1.6v-8.5h-0.9v8.5
+	c0,0.6-0.2,1-0.5,1.6c-0.3,0.4-0.8,0.6-1.2,0.6c-0.4,0-0.8-0.2-1-0.6c-0.3-0.6-0.5-1-0.5-1.6V80h-0.9v6.4c0,0.6-0.2,1-0.5,1.4
+	c-0.3,0.2-0.6,0.4-0.9,0.4c-0.4,0-0.8-0.2-1-0.4c-0.3-0.4-0.3-0.8-0.3-1.4v-7.6c0-1,0.2-1.9,0.8-2.5c0.5-0.8,1.2-1,2-1h9
+	c0.8,0,1.5,0.2,2,1C721.9,76.9,722,77.9,722,78.8 M717.1,67.6c0.6,1,0.9,1.9,0.9,2.9c0,1.2-0.3,2.1-0.9,2.9c-0.6,1-1.4,1.4-2.3,1.4
+	c-0.9,0-1.7-0.4-2.3-1.4c-0.6-0.8-0.9-1.7-0.9-2.9c0-1,0.3-1.9,0.9-2.9c0.6-0.8,1.3-1.2,2.3-1.2C715.7,66.4,716.5,66.8,717.1,67.6"
+	/>
+<path class="st1" d="M722,78.8v7.6c0,0.6,0,1-0.3,1.4c-0.3,0.2-0.6,0.4-1,0.4c-0.3,0-0.6-0.2-0.9-0.4c-0.3-0.4-0.5-0.8-0.5-1.4V80
+	h-0.9v16.7c0,0.6-0.2,1-0.5,1.6c-0.3,0.4-0.8,0.6-1,0.6c-0.5,0-0.9-0.2-1.2-0.6c-0.3-0.6-0.5-1-0.5-1.6v-8.5h-0.9v8.5
+	c0,0.6-0.1,1-0.4,1.6c-0.3,0.4-0.8,0.6-1.2,0.6c-0.5,0-0.8-0.2-1-0.6c-0.3-0.6-0.5-1-0.5-1.6V80h-0.9v6.4c0,0.6-0.1,1-0.5,1.4
+	c-0.3,0.2-0.6,0.4-0.9,0.4c-0.5,0-0.8-0.2-1-0.4c-0.3-0.4-0.3-0.8-0.3-1.4v-7.6c0-1,0.2-1.9,0.8-2.5c0.5-0.8,1.2-1,2-1h9
+	c0.8,0,1.5,0.2,2,1C721.8,76.9,722,77.9,722,78.8"/>
+<path class="st2" d="M631,102.1l-1.6,2.2c0,0-0.3,0-0.3,0.3h-0.3c-0.3,0-0.3-0.3-0.5-0.3l-17.2-17l-17.5,17c0,0-0.3,0.3-0.5,0.3
+	c-0.3-0.3-0.3-0.3-0.5-0.3l-1.6-2.2v-0.9c0-0.3,0-0.3,0.3-0.6l18-17.3c0.5-0.6,1.1-0.9,1.9-0.9c0.8,0,1.3,0.3,1.9,0.9l6.1,5.9v-5.9
+	c0,0,0-0.3,0.3-0.6c0,0,0.3-0.3,0.5-0.3h4.8c0.3,0,0.5,0.3,0.5,0.3c0.3,0.3,0.3,0.6,0.3,0.6v12.1l5.6,5.3c0.3,0.3,0.3,0.3,0.3,0.6
+	C631.3,101.4,631.3,101.8,631,102.1z M625.5,103.9v13.9c0,0.6,0,0.9-0.5,1.5c-0.3,0.3-0.5,0.3-1.1,0.3h-9.5v-11.1H608v11.1h-9.8
+	c-0.3,0-0.8,0-1.1-0.3c-0.3-0.6-0.5-0.9-0.5-1.5v-13.9v-0.3L611.1,90l14.3,13.6V103.9z"/>
+<text transform="matrix(1 0 0 1 290.5464 122.4316)" class="st3 st4">P</text>
+<text transform="matrix(1 0 0 1 295.8115 122.4316)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 299.6724 122.4316)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 305.2344 122.4316)" class="st3 st4">p</text>
+<text transform="matrix(1 0 0 1 310.8774 122.4316)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 316.0522 122.4316)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 319.9136 122.4316)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 323.1533 122.4316)" class="st3 st4">y</text>
+<text transform="matrix(1 0 0 1 297.4766 136.8228)" class="st3 st4">S</text>
+<text transform="matrix(1 0 0 1 302.2642 136.8228)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 307.4395 136.8228)" class="st3 st4">l</text>
+<text transform="matrix(1 0 0 1 309.6714 136.8228)" class="st3 st4">l</text>
+<text transform="matrix(1 0 0 1 311.9033 136.8228)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 317.0781 136.8228)" class="st3 st4">r</text>
+<rect x="433.7" y="77.6" class="st5" width="14.4" height="14.4"/>
+<rect x="450.2" y="77.6" class="st5" width="13.7" height="14.4"/>
+<rect x="466.1" y="77.6" class="st5" width="13.7" height="14.4"/>
+<rect x="433.7" y="94.1" class="st5" width="14.4" height="14.4"/>
+<rect x="450.2" y="94.1" class="st5" width="13.7" height="14.4"/>
+<rect x="466.1" y="94.1" class="st5" width="13.7" height="14.4"/>
+<rect x="433.7" y="110" class="st5" width="14.4" height="14.4"/>
+<rect x="450.2" y="110" class="st5" width="13.7" height="14.4"/>
+<rect x="466.1" y="110" class="st5" width="13.7" height="14.4"/>
+<text transform="matrix(1 0 0 1 441.8652 146.2832)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 446.8789 146.2832)" class="st3 st4">Y</text>
+<text transform="matrix(1 0 0 1 451.7656 146.2832)" class="st3 st4">T</text>
+<text transform="matrix(1 0 0 1 456.9951 146.2832)" class="st3 st4">O</text>
+<text transform="matrix(1 0 0 1 464.0781 146.2832)" class="st3 st4">S</text>
+<text transform="matrix(1 0 0 1 437.0508 160.6831)" class="st3 st4">P</text>
+<text transform="matrix(1 0 0 1 442.3154 160.6831)" class="st3 st4">l</text>
+<text transform="matrix(1 0 0 1 444.5479 160.6831)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 449.6777 160.6831)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 452.918 160.6831)" class="st3 st4">f</text>
+<text transform="matrix(1 0 0 1 456.0313 160.6831)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 461.5938 160.6831)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 465.4551 160.6831)" class="st3 st4">m</text>
+<line class="st6" x1="341.1" y1="102.4" x2="419.3" y2="102.4"/>
+<polygon class="st7" points="418.3,99.5 424.1,102.4 418.3,105.3 "/>
+<text transform="matrix(1 0 0 1 347.5215 94.8691)" class="st3 st4">P</text>
+<text transform="matrix(1 0 0 1 352.7866 94.8691)" class="st3 st4">l</text>
+<text transform="matrix(1 0 0 1 355.0186 94.8691)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 360.1484 94.8691)" class="st3 st4">c</text>
+<text transform="matrix(1 0 0 1 364.4414 94.8691)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 369.6167 94.8691)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 371.4976 94.8691)" class="st3 st4">P</text>
+<text transform="matrix(1 0 0 1 376.7627 94.8691)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 380.6235 94.8691)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 386.1855 94.8691)" class="st3 st4">p</text>
+<text transform="matrix(1 0 0 1 391.8286 94.8691)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 397.0034 94.8691)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 400.8647 94.8691)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 404.1045 94.8691)" class="st3 st4">y</text>
+<text transform="matrix(1 0 0 1 362.6323 116.4692)" class="st3 st4">f</text>
+<text transform="matrix(1 0 0 1 365.7466 116.4692)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 371.3086 116.4692)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 375.1694 116.4692)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 377.0508 116.4692)" class="st3 st4">S</text>
+<text transform="matrix(1 0 0 1 381.8384 116.4692)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 386.9688 116.4692)" class="st3 st4">l</text>
+<text transform="matrix(1 0 0 1 389.2007 116.4692)" class="st3 st4">e</text>
+<line class="st6" x1="497.4" y1="103.9" x2="575.7" y2="103.9"/>
+<polygon class="st7" points="574.8,101 580.5,103.9 574.8,106.7 "/>
+<text transform="matrix(1 0 0 1 493.6621 97.6113)" class="st3 st4">B</text>
+<text transform="matrix(1 0 0 1 499.3408 97.6113)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 503.2021 97.6113)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 508.7637 97.6113)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 513.8945 97.6113)" class="st3 st4">d</text>
+<text transform="matrix(1 0 0 1 519.5371 97.6113)" class="st3 st4">c</text>
+<text transform="matrix(1 0 0 1 523.8301 97.6113)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 528.96 97.6113)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 533.2617 97.6113)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 536.502 97.6113)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 538.3828 97.6113)" class="st3 st4">P</text>
+<text transform="matrix(1 0 0 1 543.6484 97.6113)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 547.5088 97.6113)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 553.0713 97.6113)" class="st3 st4">p</text>
+<text transform="matrix(1 0 0 1 558.7139 97.6113)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 563.8887 97.6113)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 567.75 97.6113)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 570.9902 97.6113)" class="st3 st4">y</text>
+<text transform="matrix(1 0 0 1 503.7334 119.2202)" class="st3 st4">f</text>
+<text transform="matrix(1 0 0 1 506.8477 119.2202)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 512.4092 119.2202)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 516.2705 119.2202)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 518.1514 119.2202)" class="st3 st4">S</text>
+<text transform="matrix(1 0 0 1 522.9395 119.2202)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 528.0693 119.2202)" class="st3 st4">l</text>
+<text transform="matrix(1 0 0 1 530.3008 119.2202)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 535.4766 119.2202)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 537.3574 119.2202)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 542.9189 119.2202)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 548.5713 119.2202)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 550.4521 119.2202)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 553.6924 119.2202)" class="st3 st4">h</text>
+<text transform="matrix(1 0 0 1 559.3438 119.2202)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 511.6621 133.6113)" class="st3 st4">B</text>
+<text transform="matrix(1 0 0 1 517.3408 133.6113)" class="st3 st4">l</text>
+<text transform="matrix(1 0 0 1 519.5732 133.6113)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 525.1348 133.6113)" class="st3 st4">c</text>
+<text transform="matrix(1 0 0 1 529.4277 133.6113)" class="st3 st4">k</text>
+<text transform="matrix(1 0 0 1 534.1621 133.6113)" class="st3 st4">c</text>
+<text transform="matrix(1 0 0 1 538.4551 133.6113)" class="st3 st4">h</text>
+<text transform="matrix(1 0 0 1 544.1074 133.6113)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 549.2373 133.6113)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 551.4688 133.6113)" class="st3 st4">n</text>
+<path class="st0" d="M742.9,126.8c0,0.5-0.1,0.9-0.3,1.1c-0.3,0.4-0.6,0.5-1,0.5c-0.4,0-0.9-0.2-1-0.7l-3.1-5.7h-0.6v2.1l3.3,6.9
+	c0.1,0.2,0.1,0.4,0.1,0.5c0,0.4,0,0.5-0.3,0.9c-0.1,0.2-0.3,0.2-0.6,0.2h-2.6v4.6c0,0.5-0.1,0.9-0.4,1.4c-0.3,0.4-0.7,0.5-1.1,0.5
+	h-2.1c-0.4,0-0.7-0.2-1-0.5c-0.3-0.5-0.4-0.9-0.4-1.4v-4.6H729c-0.1,0-0.4,0-0.6-0.2c-0.1-0.4-0.3-0.5-0.3-0.9
+	c0-0.2,0.1-0.4,0.1-0.5l3.4-6.9V122H731l-3,5.7c-0.3,0.5-0.6,0.7-1.1,0.7c-0.3,0-0.6-0.2-0.9-0.5c-0.3-0.2-0.4-0.5-0.4-1.1
+	c0-0.4,0.1-0.5,0.3-0.9l3.4-6.4c0.7-1.2,1.4-1.8,2.4-1.8h5.1c0.9,0,1.7,0.5,2.4,1.8l3.4,6.4C742.9,126.2,742.9,126.4,742.9,126.8
+	 M736.5,110.7c0.6,0.9,0.9,1.8,0.9,2.7c0,1.1-0.3,1.9-0.9,2.7c-0.6,0.9-1.3,1.2-2.1,1.2c-0.9,0-1.6-0.4-2.1-1.2
+	c-0.6-0.7-0.9-1.6-0.9-2.7c0-0.9,0.3-1.8,0.9-2.7c0.6-0.7,1.3-1.1,2.1-1.1C735.2,109.6,735.9,110,736.5,110.7"/>
+<path class="st1" d="M742.9,126.8c0,0.5-0.1,0.9-0.3,1.1c-0.3,0.4-0.6,0.5-1,0.5c-0.4,0-0.9-0.2-1-0.7l-3.1-5.7h-0.6v2.1l3.3,6.9
+	c0.1,0.2,0.1,0.4,0.1,0.5c0,0.4,0,0.5-0.3,0.9c-0.1,0.2-0.3,0.2-0.6,0.2h-2.6v4.6c0,0.5-0.1,0.9-0.4,1.4c-0.3,0.4-0.7,0.5-1.1,0.5
+	h-2.1c-0.4,0-0.7-0.2-1-0.5c-0.3-0.5-0.4-0.9-0.4-1.4v-4.6H729c-0.1,0-0.4,0-0.6-0.2c-0.1-0.4-0.3-0.5-0.3-0.9
+	c0-0.2,0.1-0.4,0.1-0.5l3.4-6.9V122H731l-3,5.7c-0.3,0.5-0.6,0.7-1.1,0.7c-0.3,0-0.6-0.2-0.9-0.5c-0.3-0.2-0.4-0.5-0.4-1.1
+	c0-0.4,0.1-0.5,0.3-0.9l3.4-6.4c0.7-1.2,1.4-1.8,2.4-1.8h5.1c0.9,0,1.7,0.5,2.4,1.8l3.4,6.4C742.9,126.2,742.9,126.4,742.9,126.8"/>
+<path class="st0" d="M741.5,78.8v7.6c0,0.6,0,1-0.3,1.4c-0.3,0.2-0.6,0.4-1,0.4c-0.3,0-0.6-0.2-0.9-0.4c-0.3-0.4-0.5-0.8-0.5-1.4V80
+	h-0.9v16.7c0,0.6-0.2,1-0.5,1.6c-0.3,0.4-0.8,0.6-1,0.6c-0.5,0-0.9-0.2-1.2-0.6c-0.3-0.6-0.5-1-0.5-1.6v-8.5h-0.9v8.5
+	c0,0.6-0.2,1-0.5,1.6c-0.3,0.4-0.8,0.6-1.2,0.6s-0.8-0.2-1-0.6c-0.3-0.6-0.5-1-0.5-1.6V80h-0.9v6.4c0,0.6-0.1,1-0.4,1.4
+	c-0.3,0.2-0.6,0.4-0.9,0.4c-0.5,0-0.8-0.2-1-0.4c-0.3-0.4-0.3-0.8-0.3-1.4v-7.6c0-1,0.1-1.9,0.8-2.5c0.4-0.8,1.2-1,1.9-1h9
+	c0.8,0,1.5,0.2,2,1C741.3,76.9,741.5,77.9,741.5,78.8 M736.5,67.6c0.6,1,0.9,1.9,0.9,2.9c0,1.2-0.3,2.1-0.9,2.9
+	c-0.6,1-1.3,1.4-2.3,1.4c-0.9,0-1.6-0.4-2.3-1.4c-0.6-0.8-0.9-1.7-0.9-2.9c0-1,0.3-1.9,0.9-2.9c0.6-0.8,1.4-1.2,2.3-1.2
+	C735.2,66.4,735.9,66.8,736.5,67.6"/>
+<path class="st1" d="M741.4,78.8v7.6c0,0.6,0,1-0.3,1.4c-0.3,0.2-0.6,0.4-1,0.4c-0.3,0-0.6-0.2-0.9-0.4c-0.3-0.4-0.5-0.8-0.5-1.4V80
+	h-0.9v16.7c0,0.6-0.1,1-0.5,1.6c-0.3,0.4-0.8,0.6-1,0.6c-0.5,0-0.9-0.2-1.2-0.6c-0.3-0.6-0.4-1-0.4-1.6v-8.5h-0.9v8.5
+	c0,0.6-0.2,1-0.5,1.6c-0.3,0.4-0.8,0.6-1.2,0.6c-0.4,0-0.8-0.2-1-0.6c-0.3-0.6-0.5-1-0.5-1.6V80h-0.9v6.4c0,0.6-0.2,1-0.5,1.4
+	c-0.3,0.2-0.6,0.4-0.9,0.4c-0.4,0-0.8-0.2-1-0.4c-0.3-0.4-0.3-0.8-0.3-1.4v-7.6c0-1,0.2-1.9,0.8-2.5c0.5-0.8,1.2-1,2-1h9
+	c0.8,0,1.5,0.2,2,1C741.2,76.9,741.4,77.9,741.4,78.8"/>
+<path class="st0" d="M763.1,126.8c0,0.5-0.1,0.9-0.3,1.1c-0.3,0.4-0.6,0.5-1,0.5c-0.4,0-0.9-0.2-1-0.7l-3.1-5.7h-0.6v2.1l3.3,6.9
+	c0.1,0.2,0.1,0.4,0.1,0.5c0,0.4,0,0.5-0.3,0.9c-0.1,0.2-0.3,0.2-0.6,0.2h-2.6v4.6c0,0.5-0.1,0.9-0.4,1.4c-0.3,0.4-0.7,0.5-1.1,0.5
+	h-2.1c-0.4,0-0.7-0.2-1-0.5c-0.3-0.5-0.4-0.9-0.4-1.4v-4.6h-2.7c-0.1,0-0.4,0-0.6-0.2c-0.1-0.4-0.3-0.5-0.3-0.9
+	c0-0.2,0.1-0.4,0.1-0.5l3.4-6.9V122h-0.7l-3,5.7c-0.3,0.5-0.6,0.7-1.1,0.7c-0.3,0-0.6-0.2-0.9-0.5c-0.3-0.2-0.4-0.5-0.4-1.1
+	c0-0.4,0.1-0.5,0.3-0.9l3.4-6.4c0.7-1.2,1.4-1.8,2.4-1.8h5.1c0.9,0,1.7,0.5,2.4,1.8l3.4,6.4C763.1,126.2,763.1,126.4,763.1,126.8
+	 M756.6,110.7c0.6,0.9,0.9,1.8,0.9,2.7c0,1.1-0.3,1.9-0.9,2.7c-0.6,0.9-1.3,1.2-2.1,1.2c-0.9,0-1.6-0.4-2.1-1.2
+	c-0.6-0.7-0.9-1.6-0.9-2.7c0-0.9,0.3-1.8,0.9-2.7c0.6-0.7,1.3-1.1,2.1-1.1C755.3,109.6,756.1,110,756.6,110.7"/>
+<path class="st1" d="M763.1,126.8c0,0.5-0.1,0.9-0.3,1.1c-0.3,0.4-0.6,0.5-1,0.5s-0.9-0.2-1-0.7l-3.1-5.7h-0.6v2.1l3.3,6.9
+	c0.1,0.2,0.1,0.4,0.1,0.5c0,0.4,0,0.5-0.3,0.9c-0.1,0.2-0.3,0.2-0.6,0.2h-2.6v4.6c0,0.5-0.1,0.9-0.4,1.4c-0.3,0.4-0.7,0.5-1.1,0.5
+	h-2.1c-0.4,0-0.7-0.2-1-0.5c-0.3-0.5-0.4-0.9-0.4-1.4v-4.6h-2.7c-0.1,0-0.4,0-0.6-0.2c-0.1-0.4-0.3-0.5-0.3-0.9
+	c0-0.2,0.1-0.4,0.1-0.5l3.4-6.9V122h-0.7l-3,5.7c-0.3,0.5-0.6,0.7-1.1,0.7c-0.3,0-0.6-0.2-0.9-0.5c-0.3-0.2-0.4-0.5-0.4-1.1
+	c0-0.4,0.1-0.5,0.3-0.9l3.4-6.4c0.7-1.2,1.4-1.8,2.4-1.8h5.1c0.9,0,1.7,0.5,2.4,1.8l3.4,6.4C763.1,126.2,763.1,126.4,763.1,126.8"/>
+<path class="st0" d="M761.6,78.8v7.6c0,0.6,0,1-0.3,1.4c-0.3,0.2-0.6,0.4-1,0.4c-0.3,0-0.6-0.2-0.9-0.4c-0.3-0.4-0.5-0.8-0.5-1.4V80
+	H758v16.7c0,0.6-0.2,1-0.5,1.6c-0.3,0.4-0.8,0.6-1,0.6c-0.5,0-0.9-0.2-1.2-0.6c-0.3-0.6-0.5-1-0.5-1.6v-8.5H754v8.5
+	c0,0.6-0.1,1-0.4,1.6c-0.3,0.4-0.8,0.6-1.2,0.6s-0.8-0.2-1-0.6c-0.3-0.6-0.5-1-0.5-1.6V80h-0.9v6.4c0,0.6-0.1,1-0.5,1.4
+	c-0.3,0.2-0.6,0.4-0.9,0.4c-0.5,0-0.8-0.2-1-0.4c-0.3-0.4-0.3-0.8-0.3-1.4v-7.6c0-1,0.2-1.9,0.8-2.5c0.5-0.8,1.2-1,2-1h9
+	c0.8,0,1.5,0.2,2,1C761.5,76.9,761.6,77.9,761.6,78.8 M756.7,67.6c0.6,1,0.9,1.9,0.9,2.9c0,1.2-0.3,2.1-0.9,2.9
+	c-0.6,1-1.3,1.4-2.3,1.4c-0.9,0-1.6-0.4-2.3-1.4c-0.6-0.8-0.9-1.7-0.9-2.9c0-1,0.3-1.9,0.9-2.9c0.6-0.8,1.4-1.2,2.3-1.2
+	C755.3,66.4,756.1,66.8,756.7,67.6"/>
+<path class="st1" d="M761.7,78.8v7.6c0,0.6,0,1-0.3,1.4c-0.3,0.2-0.6,0.4-1,0.4c-0.3,0-0.6-0.2-0.9-0.4c-0.3-0.4-0.5-0.8-0.5-1.4V80
+	h-0.9v16.7c0,0.6-0.2,1-0.5,1.6c-0.3,0.4-0.8,0.6-1,0.6c-0.5,0-0.9-0.2-1.2-0.6c-0.3-0.6-0.5-1-0.5-1.6v-8.5H754v8.5
+	c0,0.6-0.2,1-0.5,1.6c-0.3,0.4-0.8,0.6-1.2,0.6c-0.5,0-0.8-0.2-1-0.6c-0.3-0.6-0.5-1-0.5-1.6V80H750v6.4c0,0.6-0.1,1-0.4,1.4
+	c-0.3,0.2-0.6,0.4-0.9,0.4c-0.5,0-0.8-0.2-1-0.4c-0.3-0.4-0.3-0.8-0.3-1.4v-7.6c0-1,0.1-1.9,0.8-2.5c0.4-0.8,1.2-1,1.9-1h9
+	c0.8,0,1.5,0.2,2,1C761.5,76.9,761.7,77.9,761.7,78.8"/>
+<line class="st6" x1="704" y1="107.5" x2="645.5" y2="107.5"/>
+<polygon class="st8" points="646.4,110.3 640.7,107.5 646.4,104.6 "/>
+<text transform="matrix(1 0 0 1 655.873 68.7988)" class="st3 st4">B</text>
+<text transform="matrix(1 0 0 1 661.5518 68.7988)" class="st3 st4">u</text>
+<text transform="matrix(1 0 0 1 667.2041 68.7988)" class="st3 st4">y</text>
+<text transform="matrix(1 0 0 1 671.749 68.7988)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 676.9238 68.7988)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 680.7852 68.7988)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 685.0869 68.7988)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 649.3926 83.1899)" class="st3 st4">S</text>
+<text transform="matrix(1 0 0 1 654.1807 83.1899)" class="st3 st4">u</text>
+<text transform="matrix(1 0 0 1 659.833 83.1899)" class="st3 st4">b</text>
+<text transform="matrix(1 0 0 1 665.4756 83.1899)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 669.7783 83.1899)" class="st3 st4">c</text>
+<text transform="matrix(1 0 0 1 674.0713 83.1899)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 677.9316 83.1899)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 680.1641 83.1899)" class="st3 st4">b</text>
+<text transform="matrix(1 0 0 1 685.8066 83.1899)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 644.3623 97.5986)" class="st3 st4">I</text>
+<text transform="matrix(1 0 0 1 646.9355 97.5986)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 652.5879 97.5986)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 654.4688 97.5986)" class="st3 st4">E</text>
+<text transform="matrix(1 0 0 1 659.3203 97.5986)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 662.5596 97.5986)" class="st3 st4">h</text>
+<text transform="matrix(1 0 0 1 668.2119 97.5986)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 673.3867 97.5986)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 677.248 97.5986)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 682.4229 97.5986)" class="st3 st4">u</text>
+<text transform="matrix(1 0 0 1 688.0752 97.5986)" class="st3 st4">m</text>
+<line class="st6" x1="611.9" y1="126.2" x2="611.9" y2="158.6"/>
+<polygon class="st8" points="614.7,157.6 611.9,163.4 609,157.6 "/>
+<text transform="matrix(1 0 0 1 437.9277 284.4395)" class="st3 st4">E</text>
+<text transform="matrix(1 0 0 1 442.7783 284.4395)" class="st3 st4">x</text>
+<text transform="matrix(1 0 0 1 447.5039 284.4395)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 452.6787 284.4395)" class="st3 st4">c</text>
+<text transform="matrix(1 0 0 1 456.9717 284.4395)" class="st3 st4">u</text>
+<text transform="matrix(1 0 0 1 462.624 284.4395)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 465.8633 284.4395)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 422.0967 298.8486)" class="st3 st4">S</text>
+<text transform="matrix(1 0 0 1 426.8848 298.8486)" class="st3 st4">m</text>
+<text transform="matrix(1 0 0 1 435.4531 298.8486)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 440.583 298.8486)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 444.4434 298.8486)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 447.6836 298.8486)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 449.5645 298.8486)" class="st3 st4">C</text>
+<text transform="matrix(1 0 0 1 455.2168 298.8486)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 460.7783 298.8486)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 466.4307 298.8486)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 469.6709 298.8486)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 473.5313 298.8486)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 478.6621 298.8486)" class="st3 st4">c</text>
+<text transform="matrix(1 0 0 1 482.9551 298.8486)" class="st3 st4">t</text>
+<line class="st6" x1="462.8" y1="171.5" x2="462.8" y2="212.6"/>
+<polygon class="st8" points="465.7,211.6 462.8,217.4 459.9,211.6 "/>
+<line class="st6" x1="558" y1="185.9" x2="476.3" y2="185.9"/>
+<polygon class="st8" points="477.2,188.8 471.5,185.9 477.2,183.1 "/>
+<text transform="matrix(1 0 0 1 711.709 152.2051)" class="st3 st4">W</text>
+<text transform="matrix(1 0 0 1 719.9619 152.2051)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 725.5244 152.2051)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 729.3848 152.2051)" class="st3 st4">l</text>
+<text transform="matrix(1 0 0 1 731.6172 152.2051)" class="st3 st4">d</text>
+<text transform="matrix(1 0 0 1 737.2598 152.2051)" class="st3 st4">w</text>
+<text transform="matrix(1 0 0 1 744.2354 152.2051)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 746.4668 152.2051)" class="st3 st4">d</text>
+<text transform="matrix(1 0 0 1 752.1104 152.2051)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 714.5889 166.6143)" class="st3 st4">I</text>
+<text transform="matrix(1 0 0 1 717.1631 166.6143)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 722.8145 166.6143)" class="st3 st4">v</text>
+<text transform="matrix(1 0 0 1 727.333 166.6143)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 732.5078 166.6143)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 736.8096 166.6143)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 740.0498 166.6143)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 745.6123 166.6143)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 749.4727 166.6143)" class="st3 st4">s</text>
+<path class="st6" d="M423,251.6h-80.5c-17.8,0-32.3-14.5-32.3-32.3V149"/>
+<polygon class="st8" points="307.3,149.9 310.2,144.2 313.1,149.9 "/>
+<line class="st6" x1="493.8" y1="251.5" x2="588.3" y2="251.5"/>
+<polygon class="st8" points="587.4,248.6 593.2,251.5 587.4,254.3 "/>
+<text transform="matrix(1 0 0 1 582.623 285.9238)" class="st3 st4">S</text>
+<text transform="matrix(1 0 0 1 587.4111 285.9238)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 590.6514 285.9238)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 595.7813 285.9238)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 599.0215 285.9238)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 604.1963 285.9238)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 606.0771 285.9238)" class="st3 st4">&amp;</text>
+<text transform="matrix(1 0 0 1 612.4941 285.9238)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 614.375 285.9238)" class="st3 st4">C</text>
+<text transform="matrix(1 0 0 1 620.0273 285.9238)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 625.5898 285.9238)" class="st3 st4">u</text>
+<text transform="matrix(1 0 0 1 631.2412 285.9238)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 636.8936 285.9238)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 640.1338 285.9238)" class="st3 st4">y</text>
+<text transform="matrix(1 0 0 1 574.7119 300.3242)" class="st3 st4">R</text>
+<text transform="matrix(1 0 0 1 580.2471 300.3242)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 585.4219 300.3242)" class="st3 st4">g</text>
+<text transform="matrix(1 0 0 1 590.4805 300.3242)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 592.7119 300.3242)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 597.0146 300.3242)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 600.2539 300.3242)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 604.1152 300.3242)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 609.2451 300.3242)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 612.4854 300.3242)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 614.7168 300.3242)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 620.2793 300.3242)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 625.9316 300.3242)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 627.8125 300.3242)" class="st3 st4">O</text>
+<text transform="matrix(1 0 0 1 634.8955 300.3242)" class="st3 st4">ﬃ</text>
+<text transform="matrix(1 0 0 1 643.2383 300.3242)" class="st3 st4">c</text>
+<text transform="matrix(1 0 0 1 647.5313 300.3242)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 502.4961 248.7002)" class="st3 st4">N</text>
+<text transform="matrix(1 0 0 1 509.2549 248.7002)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 514.4307 248.7002)" class="st3 st4">w</text>
+<text transform="matrix(1 0 0 1 521.4053 248.7002)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 523.2861 248.7002)" class="st3 st4">O</text>
+<text transform="matrix(1 0 0 1 530.3691 248.7002)" class="st3 st4">w</text>
+<text transform="matrix(1 0 0 1 537.3438 248.7002)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 542.9961 248.7002)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 548.1709 248.7002)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 552.0322 248.7002)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 556.334 248.7002)" class="st3 st4">h</text>
+<text transform="matrix(1 0 0 1 561.9863 248.7002)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 564.2178 248.7002)" class="st3 st4">p</text>
+<text transform="matrix(1 0 0 1 569.8613 248.7002)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 512.5938 277.5088)" class="st3 st4">R</text>
+<text transform="matrix(1 0 0 1 518.1289 277.5088)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 523.3047 277.5088)" class="st3 st4">g</text>
+<text transform="matrix(1 0 0 1 528.3623 277.5088)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 530.5938 277.5088)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 534.8965 277.5088)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 538.1357 277.5088)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 541.9971 277.5088)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 547.127 277.5088)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 550.3672 277.5088)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 552.5996 277.5088)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 558.1611 277.5088)" class="st3 st4">n</text>
+<line class="st6" x1="449.9" y1="215.3" x2="449.9" y2="174.2"/>
+<polygon class="st7" points="447,175.1 449.9,169.4 452.7,175.1 "/>
+<text transform="matrix(1 0 0 1 391.042 187.5254)" class="st3 st4">T</text>
+<text transform="matrix(1 0 0 1 396.271 187.5254)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 400.1318 187.5254)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 405.2622 187.5254)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 410.9141 187.5254)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 415.2158 187.5254)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 420.3457 187.5254)" class="st3 st4">c</text>
+<text transform="matrix(1 0 0 1 424.6387 187.5254)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 427.8789 187.5254)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 430.1113 187.5254)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 435.6729 187.5254)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 401.0679 201.9346)" class="st3 st4">F</text>
+<text transform="matrix(1 0 0 1 405.9639 201.9346)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 411.1392 201.9346)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 416.314 201.9346)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 420.6162 201.9346)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 422.4971 201.9346)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 425.7373 201.9346)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 402.5439 216.334)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 407.5571 216.334)" class="st3 st4">Y</text>
+<text transform="matrix(1 0 0 1 412.4438 216.334)" class="st3 st4">T</text>
+<text transform="matrix(1 0 0 1 417.6729 216.334)" class="st3 st4">O</text>
+<text transform="matrix(1 0 0 1 424.7559 216.334)" class="st3 st4">S</text>
+<text transform="matrix(1 0 0 1 131.1221 77.8335)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 136.1348 77.8335)" class="st3 st4">Y</text>
+<text transform="matrix(1 0 0 1 141.022 77.8335)" class="st3 st4">T</text>
+<text transform="matrix(1 0 0 1 146.251 77.8335)" class="st3 st4">O</text>
+<text transform="matrix(1 0 0 1 153.334 77.8335)" class="st3 st4">S</text>
+<text transform="matrix(1 0 0 1 289.5039 282.6279)" class="st3 st4">N</text>
+<text transform="matrix(1 0 0 1 296.2632 282.6279)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 301.438 282.6279)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 304.6777 282.6279)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 306.5591 282.6279)" class="st3 st4">P</text>
+<text transform="matrix(1 0 0 1 311.8242 282.6279)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 315.6851 282.6279)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 321.2471 282.6279)" class="st3 st4">c</text>
+<text transform="matrix(1 0 0 1 325.54 282.6279)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 330.7148 282.6279)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 335.8901 282.6279)" class="st3 st4">d</text>
+<text transform="matrix(1 0 0 1 341.5332 282.6279)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 345.835 282.6279)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 347.7158 282.6279)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 352.8462 282.6279)" class="st3 st4">f</text>
+<text transform="matrix(1 0 0 1 355.96 282.6279)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 359.2002 282.6279)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 364.375 282.6279)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 368.2358 282.6279)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 369.5859 282.6279)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 374.5991 282.6279)" class="st3 st4">Y</text>
+<text transform="matrix(1 0 0 1 379.4858 282.6279)" class="st3 st4">T</text>
+<text transform="matrix(1 0 0 1 384.7148 282.6279)" class="st3 st4">O</text>
+<text transform="matrix(1 0 0 1 391.7979 282.6279)" class="st3 st4">S</text>
+<text transform="matrix(1 0 0 1 396.5859 282.6279)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 398.4668 282.6279)" class="st3 st4">F</text>
+<text transform="matrix(1 0 0 1 403.3628 282.6279)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 408.5381 282.6279)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 413.7129 282.6279)" class="st3 st4">s</text>
+<path class="st0" d="M279.4,49.7c0,0.1,0,0.2,0.1,0.3c0,0.1,0.1,0.2,0.2,0.2c0.1,0.1,0.2,0.1,0.2,0.2c0.1,0,0.1,0.1,0.2,0.1v-1.7
+	c-0.2,0-0.4,0.1-0.5,0.2C279.5,49.2,279.4,49.4,279.4,49.7 M281,51.9c-0.1-0.1-0.2-0.1-0.3-0.2c-0.1,0-0.1-0.1-0.2-0.1v1.9
+	c0.2,0,0.4-0.1,0.5-0.3c0.2-0.2,0.2-0.4,0.2-0.7c0-0.2,0-0.3-0.1-0.4C281.2,52.1,281.1,52,281,51.9 M281.9,53.2
+	c-0.1,0.2-0.2,0.4-0.3,0.6c-0.1,0.2-0.3,0.3-0.5,0.3c-0.2,0.1-0.3,0.1-0.6,0.1v0.6h-0.4v-0.6c-0.2,0-0.4-0.1-0.6-0.1
+	c-0.2-0.1-0.4-0.2-0.5-0.4c-0.1-0.2-0.3-0.4-0.3-0.6c-0.1-0.2-0.1-0.5-0.1-0.8h0.8c0,0.4,0.1,0.6,0.2,0.9c0.1,0.2,0.3,0.3,0.6,0.3
+	v-2c-0.2-0.1-0.3-0.1-0.5-0.2c-0.2-0.1-0.3-0.2-0.5-0.3c-0.1-0.1-0.3-0.3-0.4-0.5c-0.1-0.2-0.1-0.5-0.1-0.8c0-0.3,0-0.5,0.1-0.7
+	c0.1-0.2,0.2-0.4,0.3-0.5c0.1-0.1,0.3-0.2,0.5-0.3c0.2-0.1,0.3-0.1,0.5-0.1v-0.5h0.4v0.5c0.2,0,0.3,0,0.5,0.1
+	c0.2,0.1,0.3,0.2,0.5,0.3c0.1,0.1,0.2,0.3,0.3,0.5c0.1,0.2,0.1,0.4,0.1,0.7h-0.8c0-0.3-0.1-0.5-0.2-0.6c-0.1-0.1-0.2-0.2-0.5-0.2
+	v1.7c0.2,0.1,0.3,0.1,0.5,0.2c0.2,0.1,0.4,0.2,0.5,0.3c0.1,0.1,0.3,0.3,0.4,0.5c0.1,0.2,0.1,0.5,0.1,0.8
+	C282.1,52.7,282,53,281.9,53.2 M280.3,46.4c-2.2,0-4.1,2.2-4.1,4.9c0,2.7,1.8,4.9,4.1,4.9c2.2,0,4.1-2.2,4.1-4.9
+	C284.4,48.5,282.5,46.4,280.3,46.4 M286.9,54.9h-1c-0.3,0-0.5,0.3-0.5,0.6c0,0.3,0.2,0.6,0.5,0.6h1c0.3,0,0.5-0.3,0.5-0.6
+	C287.4,55.1,287.2,54.9,286.9,54.9 M289.9,46.4c-0.3,0-0.5-0.3-0.5-0.6c0-0.3,0.2-0.6,0.5-0.6c0.3,0,0.5,0.3,0.5,0.6
+	C290.4,46.1,290.2,46.4,289.9,46.4 M290.4,55c-0.2-0.1-0.3-0.1-0.5-0.1c-0.8,0-1.5,0.8-1.5,1.8c0,0.2,0,0.4,0.1,0.6h-16.4
+	c0.1-0.2,0.1-0.4,0.1-0.6c0-1-0.7-1.8-1.5-1.8c-0.2,0-0.3,0-0.5,0.1v-7.5c0.2,0.1,0.3,0.1,0.5,0.1c0.8,0,1.5-0.8,1.5-1.8
+	c0-0.2,0-0.4-0.1-0.6h16.4c-0.1,0.2-0.1,0.4-0.1,0.6c0,1,0.7,1.8,1.5,1.8c0.2,0,0.3,0,0.5-0.1V55z M289.9,57.3
+	c-0.3,0-0.5-0.3-0.5-0.6c0-0.3,0.2-0.6,0.5-0.6c0.3,0,0.5,0.3,0.5,0.6C290.4,57,290.2,57.3,289.9,57.3 M270.7,57.3
+	c-0.3,0-0.5-0.3-0.5-0.6c0-0.3,0.2-0.6,0.5-0.6c0.3,0,0.5,0.3,0.5,0.6C271.2,57,270.9,57.3,270.7,57.3 M270.7,45.1
+	c0.3,0,0.5,0.3,0.5,0.6c0,0.3-0.2,0.6-0.5,0.6c-0.3,0-0.5-0.3-0.5-0.6C270.2,45.4,270.4,45.1,270.7,45.1 M290.4,43.9h-20.3
+	c-0.6,0-1,0.5-1,1.2v12.1c0,0.7,0.5,1.2,1,1.2h20.3c0.6,0,1-0.5,1-1.2V45.1C291.5,44.5,291,43.9,290.4,43.9 M271.7,42.7h17.2
+	c0.3,0,0.5-0.3,0.5-0.6c0-0.3-0.2-0.6-0.5-0.6h-17.2c-0.3,0-0.5,0.3-0.5,0.6C271.2,42.4,271.4,42.7,271.7,42.7 M273.7,40.3h13.2
+	c0.3,0,0.5-0.3,0.5-0.6c0-0.3-0.2-0.6-0.5-0.6h-13.2c-0.3,0-0.5,0.3-0.5,0.6C273.2,40,273.4,40.3,273.7,40.3 M274.7,46.4h-1
+	c-0.3,0-0.5,0.3-0.5,0.6s0.2,0.6,0.5,0.6h1c0.3,0,0.5-0.3,0.5-0.6S275,46.4,274.7,46.4"/>
+<polyline class="st6" points="458.2,69.9 458.2,52 303.5,52 "/>
+<polygon class="st7" points="304.4,54.9 298.7,52 304.4,49.1 "/>
+<line class="st6" x1="256.3" y1="52" x2="174.6" y2="52"/>
+<polygon class="st7" points="175.5,54.9 169.8,52 175.5,49.1 "/>
+<text transform="matrix(1 0 0 1 306.2715 48.4941)" class="st3 st4">N</text>
+<text transform="matrix(1 0 0 1 313.0303 48.4941)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 318.2056 48.4941)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 321.4453 48.4941)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 323.3267 48.4941)" class="st3 st4">O</text>
+<text transform="matrix(1 0 0 1 330.4097 48.4941)" class="st3 st4">p</text>
+<text transform="matrix(1 0 0 1 336.0527 48.4941)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 341.2275 48.4941)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 345.0884 48.4941)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 350.2188 48.4941)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 353.4585 48.4941)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 355.6904 48.4941)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 361.3423 48.4941)" class="st3 st4">g</text>
+<text transform="matrix(1 0 0 1 366.4004 48.4941)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 368.2817 48.4941)" class="st3 st4">I</text>
+<text transform="matrix(1 0 0 1 370.8555 48.4941)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 376.5073 48.4941)" class="st3 st4">c</text>
+<text transform="matrix(1 0 0 1 380.8008 48.4941)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 386.3623 48.4941)" class="st3 st4">m</text>
+<text transform="matrix(1 0 0 1 394.9307 48.4941)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 399.5835 48.4941)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 401.4644 48.4941)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 407.0264 48.4941)" class="st3 st4">f</text>
+<text transform="matrix(1 0 0 1 410.1406 48.4941)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 417.1543 48.4941)" class="st9 st10">A</text>
+<text transform="matrix(1 0 0 1 422.9189 48.4941)" class="st9 st10">Y</text>
+<text transform="matrix(1 0 0 1 429.4063 48.4941)" class="st9 st10">T</text>
+<text transform="matrix(1 0 0 1 435.8818 48.4941)" class="st9 st10">O</text>
+<text transform="matrix(1 0 0 1 443.7881 48.4941)" class="st9 st10">S</text>
+<text transform="matrix(1 0 0 1 452.4297 48.4941)" class="st9 st10">P</text>
+<text transform="matrix(1 0 0 1 458.917 48.4941)" class="st9 st10">l</text>
+<text transform="matrix(1 0 0 1 461.084 48.4941)" class="st9 st10">a</text>
+<text transform="matrix(1 0 0 1 466.8369 48.4941)" class="st9 st10">t</text>
+<text transform="matrix(1 0 0 1 469.7129 48.4941)" class="st9 st10">f</text>
+<text transform="matrix(1 0 0 1 472.5889 48.4941)" class="st9 st10">o</text>
+<text transform="matrix(1 0 0 1 478.3418 48.4941)" class="st9 st10">r</text>
+<text transform="matrix(1 0 0 1 481.9404 48.4941)" class="st9 st10">m</text>
+<text transform="matrix(1 0 0 1 192.5215 48.8379)" class="st3 st4">C</text>
+<text transform="matrix(1 0 0 1 198.1733 48.8379)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 203.3037 48.8379)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 207.6055 48.8379)" class="st3 st4">h</text>
+<text transform="matrix(1 0 0 1 213.2573 48.8379)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 215.1387 48.8379)" class="st3 st4">F</text>
+<text transform="matrix(1 0 0 1 220.0347 48.8379)" class="st3 st4">l</text>
+<text transform="matrix(1 0 0 1 222.2666 48.8379)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 227.8286 48.8379)" class="st3 st4">w</text>
+<line class="st6" x1="127.3" y1="83" x2="103.1" y2="110"/>
+<polygon class="st7" points="105.9,111.2 99.9,113.6 101.6,107.4 "/>
+<text transform="matrix(1 0 0 1 80.0449 173.6973)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 85.5889 173.6973)" class="st3 st4">c</text>
+<text transform="matrix(1 0 0 1 89.8818 173.6973)" class="st3 st4">q</text>
+<text transform="matrix(1 0 0 1 95.5249 173.6973)" class="st3 st4">u</text>
+<text transform="matrix(1 0 0 1 101.1768 173.6973)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 103.4087 173.6973)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 107.27 173.6973)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 73.5649 188.0977)" class="st3 st4">N</text>
+<text transform="matrix(1 0 0 1 80.3237 188.0977)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 85.499 188.0977)" class="st3 st4">w</text>
+<text transform="matrix(1 0 0 1 92.4741 188.0977)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 93.8237 188.0977)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 99.3677 188.0977)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 103.6699 188.0977)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 107.9717 188.0977)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 113.147 188.0977)" class="st3 st4">t</text>
+<line class="st6" x1="97.8" y1="190.3" x2="97.8" y2="216.4"/>
+<polygon class="st7" points="100.7,215.4 97.8,221.2 94.9,215.4 "/>
+<line class="st11" x1="162.6" y1="83.7" x2="185.7" y2="108.4"/>
+<polygon class="st5" points="187.1,105.7 188.9,111.9 182.9,109.7 "/>
+<text transform="matrix(1 0 0 1 173.9746 174.0176)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 179.5186 174.0176)" class="st3 st4">ﬃ</text>
+<text transform="matrix(1 0 0 1 187.8618 174.0176)" class="st3 st4">l</text>
+<text transform="matrix(1 0 0 1 190.0938 174.0176)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 192.3257 174.0176)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 197.4556 174.0176)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 200.6958 174.0176)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 177.5835 188.4268)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 183.1274 188.4268)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 187.4297 188.4268)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 191.7314 188.4268)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 196.9067 188.4268)" class="st3 st4">t</text>
+<line class="st11" x1="191.4" y1="190.3" x2="191.4" y2="216.4"/>
+<polygon class="st5" points="194.3,215.4 191.4,221.2 188.5,215.4 "/>
+<text transform="matrix(1 0 0 1 197.0996 204.2754)" class="st3 st4">2</text>
+<text transform="matrix(1 0 0 1 202.3735 204.2754)" class="st3 st4">0</text>
+<text transform="matrix(1 0 0 1 207.6475 204.2754)" class="st3 st4">%</text>
+<text transform="matrix(1 0 0 1 197.0996 218.6846)" class="st3 st4">N</text>
+<text transform="matrix(1 0 0 1 203.8584 218.6846)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 209.0337 218.6846)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 212.2734 218.6846)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 214.1548 218.6846)" class="st3 st4">P</text>
+<text transform="matrix(1 0 0 1 219.4194 218.6846)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 223.2808 218.6846)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 228.8428 218.6846)" class="st3 st4">ﬁ</text>
+<text transform="matrix(1 0 0 1 234.1255 218.6846)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 237.3657 218.6846)" class="st3 st4">*</text>
+<path class="st11" d="M254,150.7h13.7v117.9c0,35.6,28.9,64.5,64.5,64.5h403.6V178.8"/>
+<polygon class="st5" points="732.9,179.7 735.8,174 738.7,179.7 "/>
+<text transform="matrix(1 0 0 1 219.6152 139.6582)" class="st3 st4">8</text>
+<text transform="matrix(1 0 0 1 224.8892 139.6582)" class="st3 st4">0</text>
+<text transform="matrix(1 0 0 1 230.1631 139.6582)" class="st3 st4">%</text>
+<text transform="matrix(1 0 0 1 219.6152 154.0674)" class="st3 st4">N</text>
+<text transform="matrix(1 0 0 1 226.374 154.0674)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 231.5493 154.0674)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 219.6152 168.458)" class="st3 st4">P</text>
+<text transform="matrix(1 0 0 1 224.8804 168.458)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 228.7412 168.458)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 234.3032 168.458)" class="st3 st4">ﬁ</text>
+<text transform="matrix(1 0 0 1 239.5864 168.458)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 242.8262 168.458)" class="st3 st4">*</text>
+<line class="st6" x1="99.2" y1="267.3" x2="99.2" y2="293.4"/>
+<polygon class="st7" points="102.1,292.5 99.2,298.2 96.3,292.5 "/>
+<text transform="matrix(1 0 0 1 67.0918 202.6348)" class="st3 st4">9</text>
+<text transform="matrix(1 0 0 1 72.3657 202.6348)" class="st3 st4">0</text>
+<text transform="matrix(1 0 0 1 77.6396 202.6348)" class="st3 st4">%</text>
+<text transform="matrix(1 0 0 1 67.0918 217.0352)" class="st3 st4">P</text>
+<text transform="matrix(1 0 0 1 72.3569 217.0352)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 76.2178 217.0352)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 81.7798 217.0352)" class="st3 st4">ﬁ</text>
+<text transform="matrix(1 0 0 1 87.063 217.0352)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 90.3027 217.0352)" class="st3 st4">*</text>
+<line class="st11" x1="192.8" y1="267.3" x2="192.8" y2="293.4"/>
+<polygon class="st5" points="195.7,292.5 192.8,298.2 189.9,292.5 "/>
+<text transform="matrix(1 0 0 1 194.7402 280.9629)" class="st3 st4">D</text>
+<text transform="matrix(1 0 0 1 201.2744 280.9629)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 203.5063 280.9629)" class="st3 st4">v</text>
+<text transform="matrix(1 0 0 1 208.0244 280.9629)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 210.2563 280.9629)" class="st3 st4">d</text>
+<text transform="matrix(1 0 0 1 215.8994 280.9629)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 221.0742 280.9629)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 226.7261 280.9629)" class="st3 st4">d</text>
+<text transform="matrix(1 0 0 1 211.3091 295.3721)" class="st3 st4">2</text>
+<path class="st11" d="M610.6,67v-9.9c0-21.9-17.7-39.6-39.6-39.6H142.4v12.5"/>
+<polygon class="st5" points="145.3,29 142.4,34.7 139.5,29 "/>
+<text transform="matrix(1 0 0 1 310.9438 9.6465)" class="st3 st4">T</text>
+<text transform="matrix(1 0 0 1 316.1729 9.6465)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 320.0337 9.6465)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 325.1636 9.6465)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 330.8159 9.6465)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 335.1177 9.6465)" class="st3 st4">f</text>
+<text transform="matrix(1 0 0 1 338.2319 9.6465)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 343.4067 9.6465)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 347.2676 9.6465)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 348.6177 9.6465)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 354.1616 9.6465)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 358.4639 9.6465)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 362.7656 9.6465)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 367.9409 9.6465)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 371.1807 9.6465)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 373.062 9.6465)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 378.1919 9.6465)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 382.4937 9.6465)" class="st3 st4"> </text>
+<text transform="matrix(1 0 0 1 390.8638 9.6465)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 395.877 9.6465)" class="st3 st4">Y</text>
+<text transform="matrix(1 0 0 1 400.7637 9.6465)" class="st3 st4">T</text>
+<text transform="matrix(1 0 0 1 405.9927 9.6465)" class="st3 st4">O</text>
+<text transform="matrix(1 0 0 1 413.0757 9.6465)" class="st3 st4">S</text>
+<text transform="matrix(1 0 0 1 425.4238 9.6465)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 430.9678 9.6465)" class="st3 st4">ﬃ</text>
+<text transform="matrix(1 0 0 1 439.3105 9.6465)" class="st3 st4">l</text>
+<text transform="matrix(1 0 0 1 441.543 9.6465)" class="st3 st4">i</text>
+<text transform="matrix(1 0 0 1 443.7744 9.6465)" class="st3 st4">a</text>
+<text transform="matrix(1 0 0 1 448.9043 9.6465)" class="st3 st4">t</text>
+<text transform="matrix(1 0 0 1 452.1445 9.6465)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 457.3193 9.6465)" class="st3 st4">s</text>
+<text transform="matrix(1 0 0 1 138.3867 350)" class="st3 st4">A</text>
+<text transform="matrix(1 0 0 1 143.3999 350)" class="st3 st4">Y</text>
+<text transform="matrix(1 0 0 1 148.2866 350)" class="st3 st4">T</text>
+<text transform="matrix(1 0 0 1 153.5156 350)" class="st3 st4">O</text>
+<text transform="matrix(1 0 0 1 160.5986 350)" class="st3 st4">S</text>
+<text transform="matrix(1 0 0 1 124.7065 364.4082)" class="st3 st4">T</text>
+<text transform="matrix(1 0 0 1 128.8828 364.4082)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 134.4448 364.4082)" class="st3 st4">k</text>
+<text transform="matrix(1 0 0 1 139.1787 364.4082)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 144.3535 364.4082)" class="st3 st4">n</text>
+<text transform="matrix(1 0 0 1 150.0059 364.4082)" class="st3 st4">h</text>
+<text transform="matrix(1 0 0 1 155.6577 364.4082)" class="st3 st4">o</text>
+<text transform="matrix(1 0 0 1 161.2197 364.4082)" class="st3 st4">l</text>
+<text transform="matrix(1 0 0 1 163.4517 364.4082)" class="st3 st4">d</text>
+<text transform="matrix(1 0 0 1 169.0947 364.4082)" class="st3 st4">e</text>
+<text transform="matrix(1 0 0 1 174.2695 364.4082)" class="st3 st4">r</text>
+<text transform="matrix(1 0 0 1 178.1309 364.4082)" class="st3 st4">s</text>
+<path d="M110.2,149.8H84.3c-1.6,0-2.9-1.3-2.9-2.9v-12.3l15.8-10l15.9,10v12.3C113.1,148.5,111.8,149.8,110.2,149.8"/>
+<polygon points="117.8,136.5 97.2,123.6 76.6,136.5 75.6,134.8 97.2,121.3 118.9,134.8 "/>
+<path class="st12" d="M99.2,136.8h-4c-0.8,0-1.5-0.7-1.5-1.5v-4c0-0.8,0.7-1.5,1.5-1.5h4c0.8,0,1.5,0.7,1.5,1.5v4
+	C100.7,136.2,100,136.8,99.2,136.8"/>
+<path class="st13" d="M99.2,136.8h-4c-0.8,0-1.5-0.7-1.5-1.5v-4c0-0.8,0.7-1.5,1.5-1.5h4c0.8,0,1.5,0.7,1.5,1.5v4
+	C100.7,136.2,100,136.8,99.2,136.8z"/>
+<path class="st14" d="M91.9,158.2c-0.9,0-1.6-0.7-1.6-1.6v-8.8c0-0.9,0.7-1.6,1.6-1.6h3.4l-1-1.2c-0.5-0.7-0.8-1.5-0.8-2.3
+	c0-2.1,1.7-3.7,3.7-3.7c2.1,0,3.7,1.7,3.7,3.7c0,0.8-0.3,1.6-0.8,2.3l-1,1.2h3.4c0.9,0,1.6,0.7,1.6,1.6v8.8c0,0.9-0.7,1.6-1.6,1.6
+	H91.9z"/>
+<path class="st12" d="M97.2,139.6c1.7,0,3,1.3,3,3c0,0.8-0.4,1.5-0.7,1.9l-1.9,2.4h3h1.9c0.5,0,0.9,0.4,0.9,0.9v8.8
+	c0,0.5-0.4,0.9-0.9,0.9H91.9c-0.5,0-0.9-0.4-0.9-0.9v-8.8c0-0.5,0.4-0.9,0.9-0.9h1.8h3l-1.9-2.4c-0.3-0.4-0.7-1-0.7-1.9
+	C94.2,140.9,95.6,139.6,97.2,139.6 M97.2,138.1c-2.5,0-4.5,2-4.5,4.5c0,1.1,0.4,2,1,2.8h-1.8c-1.3,0-2.4,1.1-2.4,2.4v8.8
+	c0,1.3,1.1,2.4,2.4,2.4h10.6c1.3,0,2.4-1.1,2.4-2.4v-8.8c0-1.3-1.1-2.4-2.4-2.4h-1.9c0.6-0.8,1-1.7,1-2.8
+	C101.7,140.1,99.7,138.1,97.2,138.1"/>
+<polygon class="st14" points="207.1,160.6 175.4,160.6 175.4,129 191.2,119 207.1,129 "/>
+<polyline class="st15" points="170.1,129.8 191.2,116.6 212.3,129.8 "/>
+<line class="st16" x1="180" y1="128.3" x2="180" y2="132.3"/>
+<line class="st16" x1="184.5" y1="128.3" x2="184.5" y2="132.3"/>
+<line class="st16" x1="188.9" y1="128.3" x2="188.9" y2="132.3"/>
+<line class="st16" x1="193.3" y1="128.3" x2="193.3" y2="132.3"/>
+<line class="st16" x1="197.8" y1="128.3" x2="197.8" y2="132.3"/>
+<line class="st16" x1="202.2" y1="128.3" x2="202.2" y2="132.3"/>
+<line class="st16" x1="180" y1="134" x2="180" y2="138"/>
+<line class="st16" x1="184.5" y1="134" x2="184.5" y2="138"/>
+<line class="st16" x1="197.8" y1="134" x2="197.8" y2="138"/>
+<line class="st16" x1="202.2" y1="134" x2="202.2" y2="138"/>
+<polygon points="207.1,160.7 175.4,160.7 175.4,150.2 191.2,140.3 207.1,150.2 "/>
+<polygon class="st14" points="191.2,139.9 170.5,152.9 168.9,150.3 191.2,136.3 213.6,150.3 212,152.9 "/>
+<path class="st12" d="M191.2,136.9l21.7,13.6l-1.1,1.7l-20.6-12.9l-20.5,12.9l-1.1-1.7L191.2,136.9z M191.2,135.7l-0.5,0.3
+	l-21.6,13.6l-0.8,0.5l0.5,0.8l1.1,1.7l0.5,0.8l0.8-0.5l20-12.6l20.1,12.6l0.8,0.5l0.5-0.8l1.1-1.7l0.5-0.8l-0.8-0.5l-21.7-13.6
+	L191.2,135.7z"/>
+<rect x="187.5" y="147.7" class="st12" width="6.9" height="6.9"/>
+<rect x="602.1" y="232.8" class="st7" width="23.2" height="38.8"/>
+<path class="st1" d="M156.5,331.7l-1.9-11h-1.1h0h-1.1l-1.9,11c0,0.1,0,0.3,0.1,0.4l2.6,2.8c0.1,0.2,0.4,0.2,0.5,0l2.6-2.8
+	C156.5,332,156.5,331.8,156.5,331.7"/>
+<polygon class="st1" points="153.5,317.8 153.5,317.8 153.5,317.8 153.5,317.8 153.5,317.8 151.5,319.2 152.5,320.7 153.5,320.7 
+	153.5,320.7 154.6,320.7 155.6,319.2 "/>
+<path d="M166.9,327.9c-0.3,0-0.6,0.3-0.6,0.6v5.7c0,0.2-0.2,0.3-0.3,0.3h-3.3v-12c0-0.3-0.3-0.6-0.6-0.6c-0.3,0-0.6,0.3-0.6,0.6v12
+	h-6.6l1.9-2.1c0.2-0.2,0.3-0.6,0.3-0.9c0,0,0,0,0,0l-1.8-10.7l0.5-0.7c0.3,0.2,0.5,0.4,0.9,0.4c0.4,0,0.8-0.2,1-0.6v0l1.9-3.8
+	l4.4,1.7c0.2,0.1,2.5,1.1,2.5,3.8v4.1c0,0.3,0.3,0.6,0.6,0.6c0.3,0,0.6-0.3,0.6-0.6v-4.1c0-3.6-3.1-4.9-3.2-5c0,0,0,0,0,0l-7.3-2.8
+	V312c1.2-0.9,2-2.2,2.2-3.7c0.6,0,1.1-0.3,1.5-0.6c0.6-0.5,0.9-1.2,0.9-2c0-0.6-0.2-1.2-0.6-1.7v-2.3c0-4.2-3.4-7.5-7.5-7.5
+	c-4.2,0-7.5,3.4-7.5,7.5v2.3c-0.4,0.5-0.6,1-0.6,1.6c0,0.8,0.3,1.5,0.9,2c0.4,0.4,1,0.6,1.5,0.6c0.2,1.5,1,2.9,2.3,3.8v1.6l-7.3,2.8
+	c0,0,0,0,0,0c-0.1,0.1-3.2,1.4-3.2,5v12.7c0,0.9,0.7,1.6,1.6,1.6h5.8c0.3,0,0.6-0.3,0.6-0.6s-0.3-0.6-0.6-0.6h-1.3v-12
+	c0-0.3-0.3-0.6-0.6-0.6c-0.3,0-0.6,0.3-0.6,0.6v12h-3.3c-0.2,0-0.3-0.2-0.3-0.3v-12.7c0-2.7,2.3-3.8,2.5-3.8l4.4-1.7l1.9,3.8
+	c0.2,0.4,0.6,0.6,1,0.6c0.4,0,0.6-0.2,0.9-0.4l0.5,0.7l-1.8,10.7c0,0,0,0,0,0c0,0.3,0.1,0.6,0.3,0.9l1.9,2.1h-2.4
+	c-0.3,0-0.6,0.3-0.6,0.6s0.3,0.6,0.6,0.6H166c0.9,0,1.6-0.7,1.6-1.6v-5.7C167.6,328.1,167.3,327.9,166.9,327.9 M159.3,304.3
+	c0.4,0.1,0.8,0.3,1,0.7c0.1,0.2,0.2,0.4,0.2,0.7c0,0.2-0.1,0.5-0.2,0.7c-0.1,0.1-0.2,0.3-0.3,0.4c-0.2,0.2-0.4,0.3-0.7,0.3V304.3z
+	 M147.7,305v1.6v0.5c-0.7-0.1-1.2-0.7-1.2-1.4c0-0.7,0.5-1.2,1.2-1.3V305z M158.4,315.6l-1.8,3.6c0,0-1-0.7-2.1-1.5
+	c0.5-0.6-0.1,0.1,2.2-2.7L158.4,315.6z M153.6,316.8l-2.3-2.8v-1.1c0.7,0.3,1.5,0.4,2.3,0.4c0.8,0,1.6-0.2,2.3-0.5v1.2L153.6,316.8z
+	 M153.6,318.5l1.2,0.9l-0.5,0.7h-1.5l-0.5-0.7L153.6,318.5z M148.9,307.5v-3.8v-0.2c2.6,0.2,5.4-0.6,7.6-2c0.9,0.9,1.4,1.4,1.5,1.6
+	v4.4c0,2.5-2,4.5-4.5,4.5C150.8,312,148.9,309.9,148.9,307.5 M150.5,319.1l-1.8-3.6l1.7-0.7l2.2,2.7
+	C151.6,318.4,150.6,319.1,150.5,319.1 M151.2,331.7l1.8-10.4h1.1l1.8,10.4l-2.3,2.6L151.2,331.7z"/>
+<rect x="606.2" y="235.6" class="st0" width="4.8" height="7.3"/>
+<rect x="616.5" y="235.6" class="st0" width="4.8" height="7.3"/>
+<rect x="606.2" y="245.2" class="st0" width="4.8" height="7.3"/>
+<rect x="616.5" y="245.2" class="st0" width="4.8" height="7.3"/>
+<rect x="606.2" y="254.7" class="st0" width="4.8" height="7.3"/>
+<rect x="616.5" y="254.7" class="st0" width="4.8" height="7.3"/>
+<rect x="611.2" y="263.4" class="st0" width="5.2" height="8.3"/>
+<path class="st1" d="M626.4,97.1l-15.2-11.7L596,97.1c-0.8,0.6-1.9,0.5-2.6-0.2c-0.8-0.8-0.7-2.1,0.2-2.8l17.6-13.9l17.6,13.9
+	c0.9,0.7,1,2,0.2,2.8C628.3,97.6,627.2,97.7,626.4,97.1"/>
+<polygon class="st1" points="611.2,87.2 596.7,98.4 596.7,117.4 625.7,117.4 625.7,98.4 "/>
+<path class="st1" d="M629.5,111.1c-0.3,0-0.6,0.3-0.6,0.6v0.6h-0.6v-0.6c0-0.3-0.3-0.6-0.6-0.6c-0.3,0-0.6,0.3-0.6,0.6v0.6h-1.3
+	c-0.3,0-0.6,0.3-0.6,0.6c0,0.3,0.3,0.6,0.6,0.6h1.3v1.9h-1.3c-0.3,0-0.6,0.3-0.6,0.6c0,0.3,0.3,0.6,0.6,0.6h1.3v0.6
+	c0,0.3,0.3,0.6,0.6,0.6c0.3,0,0.6-0.3,0.6-0.6v-0.6h0.6v0.6c0,0.3,0.3,0.6,0.6,0.6c0.3,0,0.6-0.3,0.6-0.6v-5.7
+	C630.1,111.4,629.8,111.1,629.5,111.1 M628.2,113.6h0.6v1.9h-0.6V113.6z"/>
+<path class="st1" d="M596.7,113.6c0.3,0,0.6-0.3,0.6-0.6c0-0.3-0.3-0.6-0.6-0.6h-1.3v-0.6c0-0.3-0.3-0.6-0.6-0.6
+	c-0.3,0-0.6,0.3-0.6,0.6v0.6h-0.6v-0.6c0-0.3-0.3-0.6-0.6-0.6c-0.3,0-0.6,0.3-0.6,0.6v5.7c0,0.3,0.3,0.6,0.6,0.6
+	c0.3,0,0.6-0.3,0.6-0.6v-0.6h0.6v0.6c0,0.3,0.3,0.6,0.6,0.6c0.3,0,0.6-0.3,0.6-0.6v-0.6h1.3c0.3,0,0.6-0.3,0.6-0.6
+	c0-0.3-0.3-0.6-0.6-0.6h-1.3v-1.9H596.7z M594.1,115.5h-0.6v-1.9h0.6V115.5z"/>
+<rect x="601.7" y="97.8" class="st12" width="7.6" height="5"/>
+<rect x="601.7" y="106.7" class="st12" width="7.6" height="6.3"/>
+<rect x="613.1" y="97.8" class="st12" width="7.6" height="5"/>
+<rect x="613.1" y="106.7" class="st12" width="7.6" height="10.7"/>
+<polygon class="st1" points="606.1,109.2 606.1,106.7 604.9,106.7 604.9,109.2 601.7,109.2 601.7,110.4 604.9,110.4 604.9,113 
+	606.1,113 606.1,110.4 609.3,110.4 609.3,109.2 "/>
+<polygon class="st14" points="299.4,104.2 301.9,100.2 309.1,109.4 315.9,100.2 318.4,104.3 309.2,110.1 "/>
+<path d="M300.2,110.8c-0.4,0-0.6-0.2-0.6-0.6v-2.4c0-0.4,0.2-0.6,0.6-0.6c0.4,0,0.6,0.2,0.6,0.6v2.4
+	C300.8,110.6,300.6,110.8,300.2,110.8"/>
+<path d="M318,110.8c-0.4,0-0.6-0.2-0.6-0.6v-2.4c0-0.4,0.2-0.6,0.6-0.6c0.4,0,0.6,0.2,0.6,0.6v2.4
+	C318.6,110.6,318.3,110.8,318,110.8"/>
+<path d="M309.1,110.8c-0.1,0-0.2,0-0.3-0.1l-9.5-5.9c-0.2-0.2-0.4-0.5-0.2-0.8l2.4-4.4c0.1-0.2,0.3-0.3,0.5-0.3
+	c0.2,0,0.4,0.1,0.5,0.2l7.1,10.3c0.2,0.2,0.1,0.5-0.1,0.8C309.4,110.7,309.3,110.8,309.1,110.8 M300.4,104l6.6,4.1L302,101
+	L300.4,104z"/>
+<path d="M309.1,110.8c-0.2,0-0.3-0.1-0.4-0.2c-0.2-0.2-0.2-0.5-0.1-0.8l7.1-10.3c0.1-0.2,0.3-0.3,0.5-0.2c0.2,0,0.4,0.1,0.5,0.3
+	l2.4,4.4c0.2,0.3,0.1,0.6-0.2,0.8l-9.5,5.9C309.3,110.8,309.2,110.8,309.1,110.8 M316.1,101l-4.9,7.2l6.6-4.1L316.1,101z"/>
+<path d="M300.2,100.9c-0.1,0-0.2-0.1-0.4-0.1c-0.1-0.1-0.2-0.3-0.2-0.5V84.7c0-5.2,4.3-9.5,9.5-9.5c5.2,0,9.5,4.3,9.5,9.5v15.5
+	c0,0.2-0.1,0.4-0.2,0.5c-0.2,0.1-0.4,0.2-0.5,0.1c-1.8-0.4-3.7-0.7-5.2-0.7c-0.4,0-0.6-0.2-0.6-0.6v-2.7c-1.8,1.1-4.1,1.1-5.9,0v2.7
+	c0,0.4-0.2,0.6-0.6,0.6C304,100.1,302.1,100.4,300.2,100.9L300.2,100.9z"/>
+<path d="M326.3,110.8L326.3,110.8h-17.1h-0.1h-17.2c-0.4,0-0.6-0.2-0.6-0.6v-4.9c0-1.2,0.7-2.4,1.8-2.9c0.6-0.3,1.1-0.6,1.7-0.9
+	c3.1-1.5,6.6-2.4,10.1-2.6v-3.3c0-0.2,0.1-0.5,0.4-0.5c0.2-0.1,0.5-0.1,0.7,0.1c1.9,1.7,4.4,1.7,6.3,0c0.2-0.2,0.4-0.2,0.7-0.1
+	c0.2,0.1,0.4,0.3,0.4,0.5V99c3.6,0.2,7,1,10.1,2.6c0.6,0.3,1.1,0.6,1.7,0.9c1.1,0.6,1.8,1.7,1.8,2.9v4.9c0,0.2-0.1,0.3-0.2,0.4
+	C326.6,110.7,326.4,110.8,326.3,110.8 M292.5,109.6H309h0.1h16.6v-4.3c0-0.8-0.4-1.5-1.1-1.9c-0.6-0.3-1.1-0.6-1.7-0.8
+	c-3.2-1.5-6.6-2.4-10.2-2.5c-0.3,0-0.6-0.3-0.6-0.6v-2.7c-1.8,1.1-4.1,1.1-5.9,0v2.7c0,0.3-0.2,0.6-0.6,0.6
+	c-3.6,0.1-7.1,0.9-10.2,2.5c-0.5,0.3-1.1,0.5-1.7,0.8c-0.7,0.4-1.1,1.1-1.1,1.9V109.6z"/>
+<path d="M305.5,101.3c-0.4,0-0.6-0.2-0.6-0.6v-1.2c0-0.4,0.2-0.6,0.6-0.6c0.4,0,0.6,0.2,0.6,0.6v1.2
+	C306.1,101.1,305.9,101.3,305.5,101.3"/>
+<path d="M312.6,101.3c-0.4,0-0.6-0.2-0.6-0.6v-1.2c0-0.4,0.2-0.6,0.6-0.6c0.4,0,0.6,0.2,0.6,0.6v1.2
+	C313.2,101.1,313,101.3,312.6,101.3"/>
+<polyline class="st12" points="302.4,85.5 303.5,85.1 304.5,84.1 305.3,82.4 306.8,84.7 308.3,85.5 312.7,85.2 315.6,85.4 
+	315.5,89.3 314.8,92.6 312.8,95.6 310.6,96.8 308.2,97 306,96.2 304.3,94.4 303.2,92.2 302.6,89.5 302.3,85.3 "/>
+<path d="M309.1,97.8c-3.9,0-7.1-4.3-7.1-9.5v-3c0-0.3,0.2-0.5,0.5-0.6c0.8-0.1,2-0.5,2.4-3.1c0.1-0.2,0.3-0.5,0.6-0.5
+	s0.5,0.2,0.6,0.5c0.4,2.1,0.8,3.1,2.4,3.1h7.1c0.4,0,0.6,0.2,0.6,0.6v3C316.2,93.5,313,97.8,309.1,97.8 M303.2,85.8v2.5
+	c0,4.6,2.7,8.3,5.9,8.3c3.3,0,5.9-3.7,5.9-8.3v-2.4h-6.5c-1.7,0-2.5-0.9-3-2C305,84.9,304.2,85.6,303.2,85.8"/>
+<path class="st5" d="M203.2,244.8v20.9h-94.2c-11,0-19.9-8.9-19.9-19.9v-21.8h93.3C193.8,223.9,203.2,233.2,203.2,244.8"/>
+<path class="st17" d="M199.9,244.8v18h-89.4c-10,0-18.2-7.7-18.2-17.2v-18.8h88.6C191.3,226.8,199.9,234.9,199.9,244.8z"/>
+<path class="st5" d="M653.6,189.9v20.9h-73.5c-11,0-19.9-8.9-19.9-19.9V169h72.5C644.3,169,653.6,178.4,653.6,189.9"/>
+<path class="st17" d="M650.3,189.9v18h-68.7c-10,0-18.2-7.7-18.2-17.2v-18.8h67.8C641.8,171.9,650.3,180,650.3,189.9z"/>
+<text transform="matrix(1 0 0 1 113.0566 242.3887)" class="st12 st9 st10">A</text>
+<text transform="matrix(1 0 0 1 119.5439 242.3887)" class="st12 st9 st10">d</text>
+<text transform="matrix(1 0 0 1 125.2964 242.3887)" class="st12 st9 st10">d</text>
+<text transform="matrix(1 0 0 1 131.0493 242.3887)" class="st12 st9 st10"> </text>
+<text transform="matrix(1 0 0 1 133.2158 242.3887)" class="st12 st9 st10">I</text>
+<text transform="matrix(1 0 0 1 136.0923 242.3887)" class="st12 st9 st10">n</text>
+<text transform="matrix(1 0 0 1 141.8452 242.3887)" class="st12 st9 st10">t</text>
+<text transform="matrix(1 0 0 1 144.7217 242.3887)" class="st12 st9 st10">o</text>
+<text transform="matrix(1 0 0 1 150.4741 242.3887)" class="st12 st9 st10"> </text>
+<text transform="matrix(1 0 0 1 151.9395 242.3887)" class="st12 st3 st4">A</text>
+<text transform="matrix(1 0 0 1 156.9526 242.3887)" class="st12 st3 st4">Y</text>
+<text transform="matrix(1 0 0 1 161.8394 242.3887)" class="st12 st3 st4">T</text>
+<text transform="matrix(1 0 0 1 167.0684 242.3887)" class="st12 st3 st4">O</text>
+<text transform="matrix(1 0 0 1 174.1514 242.3887)" class="st12 st3 st4">S</text>
+<text transform="matrix(1 0 0 1 130.3394 256.7979)" class="st12 st3 st4">P</text>
+<text transform="matrix(1 0 0 1 135.6045 256.7979)" class="st12 st3 st4">o</text>
+<text transform="matrix(1 0 0 1 141.1665 256.7979)" class="st12 st3 st4">r</text>
+<text transform="matrix(1 0 0 1 145.0273 256.7979)" class="st12 st3 st4">t</text>
+<text transform="matrix(1 0 0 1 148.2676 256.7979)" class="st12 st3 st4">f</text>
+<text transform="matrix(1 0 0 1 151.3813 256.7979)" class="st12 st3 st4">o</text>
+<text transform="matrix(1 0 0 1 156.9434 256.7979)" class="st12 st3 st4">l</text>
+<text transform="matrix(1 0 0 1 159.1753 256.7979)" class="st12 st3 st4">i</text>
+<text transform="matrix(1 0 0 1 161.4072 256.7979)" class="st12 st3 st4">o</text>
+<text transform="matrix(1 0 0 1 595.6035 186.04)" class="st12 st3 st4">1</text>
+<text transform="matrix(1 0 0 1 600.877 186.04)" class="st12 st3 st4">0</text>
+<text transform="matrix(1 0 0 1 606.1514 186.04)" class="st12 st3 st4">0</text>
+<text transform="matrix(1 0 0 1 611.4258 186.04)" class="st12 st3 st4">%</text>
+<text transform="matrix(1 0 0 1 583.3721 200.4482)" class="st12 st3 st4">S</text>
+<text transform="matrix(1 0 0 1 588.1602 200.4482)" class="st12 st3 st4">u</text>
+<text transform="matrix(1 0 0 1 593.8125 200.4482)" class="st12 st3 st4">b</text>
+<text transform="matrix(1 0 0 1 599.4551 200.4482)" class="st12 st3 st4">s</text>
+<text transform="matrix(1 0 0 1 603.7578 200.4482)" class="st12 st3 st4">c</text>
+<text transform="matrix(1 0 0 1 608.0508 200.4482)" class="st12 st3 st4">r</text>
+<text transform="matrix(1 0 0 1 611.9111 200.4482)" class="st12 st3 st4">i</text>
+<text transform="matrix(1 0 0 1 614.1436 200.4482)" class="st12 st3 st4">b</text>
+<text transform="matrix(1 0 0 1 619.7861 200.4482)" class="st12 st3 st4">e</text>
+<text transform="matrix(1 0 0 1 624.9619 200.4482)" class="st12 st3 st4">d</text>
+<path class="st7" d="M287.9,87.5c0,4.3-3.5,7.7-7.7,7.7c-4.3,0-7.7-3.5-7.7-7.7c0-4.3,3.5-7.7,7.7-7.7
+	C284.4,79.7,287.9,83.2,287.9,87.5"/>
+<circle class="st18" cx="280.1" cy="87.5" r="7.7"/>
+<text transform="matrix(1 0 0 1 277.5674 90.1064)" class="st12 st3 st4">1</text>
+<path class="st7" d="M238,114.9c0,4.3-3.5,7.7-7.7,7.7c-4.3,0-7.7-3.5-7.7-7.7c0-4.3,3.5-7.7,7.7-7.7
+	C234.5,107.2,238,110.6,238,114.9"/>
+<circle class="st18" cx="230.2" cy="114.9" r="7.7"/>
+<text transform="matrix(1 0 0 1 227.6704 117.5332)" class="st12 st3 st4">5</text>
+<path class="st7" d="M114.4,323.1c0,4.3-3.5,7.7-7.7,7.7c-4.3,0-7.7-3.5-7.7-7.7c0-4.3,3.5-7.7,7.7-7.7
+	C110.9,315.4,114.4,318.9,114.4,323.1"/>
+<circle class="st18" cx="106.6" cy="323.1" r="7.7"/>
+<text transform="matrix(1 0 0 1 104.061 325.7754)" class="st12 st3 st4">6</text>
+<path class="st7" d="M412.7,294.9c0,4.3-3.5,7.7-7.7,7.7c-4.3,0-7.7-3.5-7.7-7.7c0-4.3,3.5-7.7,7.7-7.7
+	C409.3,287.1,412.7,290.6,412.7,294.9"/>
+<circle class="st18" cx="405" cy="294.9" r="7.7"/>
+<text transform="matrix(1 0 0 1 402.4404 297.5049)" class="st12 st3 st4">3</text>
+<path class="st7" d="M678.5,120.2c0,4.3-3.5,7.7-7.7,7.7c-4.3,0-7.7-3.5-7.7-7.7c0-4.3,3.5-7.7,7.7-7.7
+	C675,112.5,678.5,115.9,678.5,120.2"/>
+<circle class="st18" cx="670.7" cy="120.2" r="7.7"/>
+<text transform="matrix(1 0 0 1 668.1602 122.8389)" class="st12 st3 st4">2</text>
+<path class="st1" d="M462.8,249.9h-11.4c-1,0-1.8-0.8-1.8-1.8v-15.2c0-1,0.8-1.8,1.8-1.8h11.4c1,0,1.8,0.8,1.8,1.8v15.2
+	C464.7,249.1,463.8,249.9,462.8,249.9"/>
+<path class="st12" d="M461.4,234.9H456c-0.3,0-0.6-0.3-0.6-0.6c0-0.3,0.3-0.6,0.6-0.6h5.4c0.3,0,0.6,0.3,0.6,0.6
+	C462,234.6,461.7,234.9,461.4,234.9"/>
+<path class="st12" d="M461.4,238.1h-8.9c-0.3,0-0.6-0.3-0.6-0.6c0-0.3,0.3-0.6,0.6-0.6h8.9c0.3,0,0.6,0.3,0.6,0.6
+	C462,237.8,461.7,238.1,461.4,238.1"/>
+<path class="st12" d="M461.4,241.2h-8.9c-0.3,0-0.6-0.3-0.6-0.6c0-0.3,0.3-0.6,0.6-0.6h8.9c0.3,0,0.6,0.3,0.6,0.6
+	C462,240.9,461.7,241.2,461.4,241.2"/>
+<polyline class="st19" points="457.4,245.3 459.1,247.1 462.2,244.1 "/>
+<polyline class="st20" points="444.4,239.5 447.1,242.3 444.6,245.1 "/>
+<polyline class="st20" points="470.4,239.5 467.7,242.3 470.2,245.1 "/>
+<path class="st21" d="M443.2,242.4c0,0.8-0.7,1.5-1.5,1.5c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5
+	C442.5,241,443.2,241.6,443.2,242.4"/>
+<path class="st21" d="M443.2,247.6c0,0.8-0.7,1.5-1.5,1.5c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5
+	C442.5,246.2,443.2,246.8,443.2,247.6"/>
+<path class="st21" d="M443.2,252.8c0,0.8-0.7,1.5-1.5,1.5c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5
+	C442.5,251.3,443.2,252,443.2,252.8"/>
+<path class="st21" d="M474.1,242.4c0,0.8-0.7,1.5-1.5,1.5c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5
+	C473.5,241,474.1,241.6,474.1,242.4"/>
+<path class="st21" d="M474.1,247.6c0,0.8-0.7,1.5-1.5,1.5c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5
+	C473.5,246.2,474.1,246.8,474.1,247.6"/>
+<path class="st21" d="M474.1,252.8c0,0.8-0.7,1.5-1.5,1.5c-0.8,0-1.5-0.7-1.5-1.5c0-0.8,0.7-1.5,1.5-1.5
+	C473.5,251.3,474.1,252,474.1,252.8"/>
+<path class="st21" d="M479.8,263.3c0,4-3.2,7.2-7.2,7.2c-4,0-7.2-3.2-7.2-7.2c0-4,3.2-7.2,7.2-7.2
+	C476.6,256.1,479.8,259.3,479.8,263.3"/>
+<path class="st21" d="M448.9,263.3c0,4-3.2,7.2-7.2,7.2c-4,0-7.2-3.2-7.2-7.2c0-4,3.2-7.2,7.2-7.2
+	C445.7,256.1,448.9,259.3,448.9,263.3"/>
+<circle class="st22" cx="440.8" cy="262.2" r="2.3"/>
+<line class="st19" x1="445" y1="266.6" x2="442.4" y2="264"/>
+<path class="st19" d="M474.4,261.5c0,0,0.1-1.8-1.7-1.8c-1.5,0-2,1-2,1.7c0,0.7,0.4,1.8,1.9,1.8c1.5,0,1.8,1.2,1.8,1.8
+	c0,0.6-0.4,1.7-1.8,1.7c-1.4,0-1.9-1-1.9-1.8"/>
+<line class="st19" x1="472.6" y1="258.5" x2="472.6" y2="259.6"/>
+<line class="st19" x1="472.6" y1="266.9" x2="472.6" y2="268"/>
+<path class="st1" d="M718.5,70.2c0,2.1-1.7,3.8-3.8,3.8c-2.1,0-3.8-1.7-3.8-3.8c0-2.1,1.7-3.8,3.8-3.8
+	C716.9,66.4,718.5,68.1,718.5,70.2"/>
+<path class="st1" d="M738,70.2c0,2.1-1.7,3.8-3.8,3.8s-3.8-1.7-3.8-3.8c0-2.1,1.7-3.8,3.8-3.8S738,68.1,738,70.2"/>
+<path class="st1" d="M758.2,70.2c0,2.1-1.7,3.8-3.8,3.8c-2.1,0-3.8-1.7-3.8-3.8c0-2.1,1.7-3.8,3.8-3.8
+	C756.6,66.4,758.2,68.1,758.2,70.2"/>
+<path class="st1" d="M718.6,112.8c0,2.1-1.7,3.8-3.8,3.8c-2.1,0-3.8-1.7-3.8-3.8s1.7-3.8,3.8-3.8C716.9,109,718.6,110.7,718.6,112.8
+	"/>
+<path class="st1" d="M738,112.8c0,2.1-1.7,3.8-3.8,3.8c-2.1,0-3.8-1.7-3.8-3.8s1.7-3.8,3.8-3.8C736.3,109,738,110.7,738,112.8"/>
+<path class="st1" d="M758.2,112.8c0,2.1-1.7,3.8-3.8,3.8c-2.1,0-3.8-1.7-3.8-3.8s1.7-3.8,3.8-3.8C756.5,109,758.2,110.7,758.2,112.8
+	"/>
+<path class="st14" d="M270.9,43.1h18.8c0.3,0,0.6-0.3,0.6-0.7c0-0.4-0.2-0.7-0.6-0.7h-18.8c-0.3,0-0.6,0.3-0.6,0.7
+	C270.3,42.8,270.6,43.1,270.9,43.1"/>
+<path class="st14" d="M273.1,41h14.4c0.3,0,0.6-0.3,0.6-0.7c0-0.4-0.2-0.7-0.6-0.7h-14.4c-0.3,0-0.6,0.3-0.6,0.7
+	C272.5,40.7,272.8,41,273.1,41"/>
+<path class="st12" d="M289.9,56.1c-0.3,0-0.5,0.3-0.5,0.6c0,0.3,0.2,0.6,0.5,0.6c0.3,0,0.5-0.3,0.5-0.6
+	C290.4,56.3,290.2,56.1,289.9,56.1"/>
+<path class="st12" d="M289.9,46.4c0.3,0,0.5-0.3,0.5-0.6c0-0.3-0.2-0.6-0.5-0.6c-0.3,0-0.5,0.3-0.5,0.6
+	C289.4,46.1,289.7,46.4,289.9,46.4"/>
+<path class="st12" d="M270.7,57.3c0.3,0,0.5-0.3,0.5-0.6c0-0.3-0.2-0.6-0.5-0.6c-0.3,0-0.5,0.3-0.5,0.6
+	C270.2,57,270.4,57.3,270.7,57.3"/>
+<path class="st12" d="M270.7,46.4c0.3,0,0.5-0.3,0.5-0.6c0-0.3-0.2-0.6-0.5-0.6c-0.3,0-0.5,0.3-0.5,0.6
+	C270.2,46.1,270.4,46.4,270.7,46.4"/>
+<path class="st14" d="M279.5,53.2c-0.1-0.2-0.2-0.5-0.2-0.9h-0.8c0,0.3,0,0.6,0.1,0.8c0.1,0.2,0.2,0.4,0.3,0.6
+	c0.1,0.2,0.3,0.3,0.5,0.4c0.2,0.1,0.4,0.1,0.6,0.1v0.6h0.4v-0.6c0.2,0,0.4-0.1,0.6-0.1c0.2-0.1,0.4-0.2,0.5-0.3
+	c0.1-0.2,0.3-0.3,0.3-0.6c0.1-0.2,0.1-0.5,0.1-0.8c0-0.3,0-0.5-0.1-0.8c-0.1-0.2-0.2-0.4-0.4-0.5c-0.1-0.1-0.3-0.3-0.5-0.3
+	c-0.2-0.1-0.3-0.2-0.5-0.2v-1.7c0.2,0,0.4,0.1,0.5,0.2c0.1,0.1,0.2,0.4,0.2,0.6h0.8c0-0.3,0-0.5-0.1-0.7c-0.1-0.2-0.2-0.4-0.3-0.5
+	c-0.1-0.1-0.3-0.2-0.5-0.3c-0.2-0.1-0.3-0.1-0.5-0.1v-0.5h-0.4v0.5c-0.2,0-0.3,0-0.5,0.1c-0.2,0.1-0.4,0.2-0.5,0.3
+	c-0.1,0.1-0.3,0.3-0.3,0.5c-0.1,0.2-0.1,0.4-0.1,0.7c0,0.3,0,0.6,0.1,0.8c0.1,0.2,0.2,0.4,0.4,0.5c0.1,0.1,0.3,0.2,0.5,0.3
+	c0.2,0.1,0.3,0.2,0.5,0.2v2C279.8,53.5,279.6,53.4,279.5,53.2 M280.5,51.6c0.1,0,0.1,0.1,0.2,0.1c0.1,0,0.2,0.1,0.3,0.2
+	c0.1,0.1,0.1,0.2,0.2,0.3c0,0.1,0.1,0.2,0.1,0.4c0,0.3-0.1,0.6-0.2,0.7c-0.2,0.2-0.3,0.2-0.5,0.3V51.6z M279.9,50.4
+	c-0.1,0-0.2-0.1-0.2-0.2c-0.1-0.1-0.1-0.1-0.2-0.2c0-0.1-0.1-0.2-0.1-0.3c0-0.3,0.1-0.5,0.2-0.6c0.1-0.1,0.3-0.2,0.5-0.2v1.7
+	C280,50.5,280,50.4,279.9,50.4"/>
+<path class="st12" d="M280.3,56.1c2.2,0,4.1-2.2,4.1-4.9c0-2.7-1.8-4.9-4.1-4.9c-2.2,0-4.1,2.2-4.1,4.9
+	C276.2,53.9,278.1,56.1,280.3,56.1 M279.6,51.3c-0.2-0.1-0.3-0.2-0.5-0.3c-0.1-0.1-0.3-0.3-0.4-0.5c-0.1-0.2-0.1-0.5-0.1-0.8
+	c0-0.3,0-0.5,0.1-0.7c0.1-0.2,0.2-0.4,0.3-0.5c0.1-0.1,0.3-0.2,0.5-0.3c0.2-0.1,0.3-0.1,0.5-0.1v-0.5h0.4v0.5c0.2,0,0.3,0,0.5,0.1
+	c0.2,0.1,0.3,0.2,0.5,0.3c0.1,0.1,0.2,0.3,0.3,0.5c0.1,0.2,0.1,0.4,0.1,0.7h-0.8c0-0.3-0.1-0.5-0.2-0.6c-0.1-0.1-0.2-0.2-0.5-0.2
+	v1.7c0.2,0.1,0.3,0.1,0.5,0.2c0.2,0.1,0.4,0.2,0.5,0.3c0.1,0.1,0.3,0.3,0.4,0.5c0.1,0.2,0.1,0.5,0.1,0.8c0,0.3,0,0.6-0.1,0.8
+	c-0.1,0.2-0.2,0.4-0.3,0.6c-0.1,0.2-0.3,0.3-0.5,0.3c-0.2,0.1-0.3,0.1-0.6,0.1v0.6h-0.4v-0.6c-0.2,0-0.4-0.1-0.6-0.1
+	c-0.2-0.1-0.4-0.2-0.5-0.4c-0.1-0.2-0.3-0.4-0.3-0.6c-0.1-0.2-0.1-0.5-0.1-0.8h0.8c0,0.4,0.1,0.6,0.2,0.9c0.1,0.2,0.3,0.3,0.6,0.3
+	v-2C279.9,51.5,279.8,51.4,279.6,51.3"/>
+<path class="st14" d="M290.4,43.9h-20.3c-0.6,0-1,0.5-1,1.2v12.1c0,0.7,0.5,1.2,1,1.2h20.3c0.6,0,1-0.5,1-1.2V45.1
+	C291.5,44.5,291,43.9,290.4,43.9 M287.4,55.5c0,0.3-0.2,0.6-0.5,0.6h-1c-0.3,0-0.5-0.3-0.5-0.6c0-0.3,0.2-0.6,0.5-0.6h1
+	C287.2,54.9,287.4,55.1,287.4,55.5 M284.4,51.2c0,2.7-1.8,4.9-4.1,4.9c-2.2,0-4.1-2.2-4.1-4.9c0-2.7,1.8-4.9,4.1-4.9
+	C282.5,46.4,284.4,48.5,284.4,51.2 M275.2,47c0,0.3-0.2,0.6-0.5,0.6h-1c-0.3,0-0.5-0.3-0.5-0.6s0.2-0.6,0.5-0.6h1
+	C275,46.4,275.2,46.6,275.2,47 M270.7,45.1c0.3,0,0.5,0.3,0.5,0.6c0,0.3-0.2,0.6-0.5,0.6c-0.3,0-0.5-0.3-0.5-0.6
+	C270.2,45.4,270.4,45.1,270.7,45.1 M270.7,57.3c-0.3,0-0.5-0.3-0.5-0.6c0-0.3,0.2-0.6,0.5-0.6c0.3,0,0.5,0.3,0.5,0.6
+	C271.2,57,270.9,57.3,270.7,57.3 M289.9,57.3c-0.3,0-0.5-0.3-0.5-0.6c0-0.3,0.2-0.6,0.5-0.6c0.3,0,0.5,0.3,0.5,0.6
+	C290.4,57,290.2,57.3,289.9,57.3 M289.9,46.4c-0.3,0-0.5-0.3-0.5-0.6c0-0.3,0.2-0.6,0.5-0.6c0.3,0,0.5,0.3,0.5,0.6
+	C290.4,46.1,290.2,46.4,289.9,46.4"/>
+<path class="st12" d="M273.7,47.6h1c0.3,0,0.5-0.3,0.5-0.6s-0.2-0.6-0.5-0.6h-1c-0.3,0-0.5,0.3-0.5,0.6S273.4,47.6,273.7,47.6"/>
+<path class="st12" d="M285.9,56.1h1c0.3,0,0.5-0.3,0.5-0.6c0-0.3-0.2-0.6-0.5-0.6h-1c-0.3,0-0.5,0.3-0.5,0.6
+	C285.4,55.8,285.6,56.1,285.9,56.1"/>
+</svg>
